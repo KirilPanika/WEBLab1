@@ -1,0 +1,12 @@
+/* .w3-topbar{border-top:6px solid #cb1111!important}.w3-bottombar{border-bottom:6px solid #cb1111!important} */
+
+
+div {
+    background-color: #847c7c; /* Changed background color for div elements */
+    padding: 15px; /* Added padding for div elements */
+  }
+  
+  img {
+    max-width: 50%; /* Ensure images don't exceed their container width */
+    border-radius: 60px; /* Rounded corners for images */
+  }
